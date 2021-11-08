@@ -1,6 +1,6 @@
-owner=349906494822547471
-prefix= Ta
-game= Type Ta help
+owner=702376681394143302
+prefix= !
+game= Type ! help
 stayinchannel=true
 songinstatus=true 
-token=NTQ0MDg1NTMxNzA1NzM3MjE4.D0F-qQ.UQ5zamA1biqIDPPfvnuf0gIXgDo
+token=OTA1NjI4NjE2NzUzMzA3Njc5.YYM2YA.vabC08yut1087YACu2I6cn_VZL0
